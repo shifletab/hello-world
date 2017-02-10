@@ -1,2 +1,2 @@
 # hello-world
-Stating repository
+Hello, out there!  I am a modeler, author, and retired computer science and mathematics professor.
